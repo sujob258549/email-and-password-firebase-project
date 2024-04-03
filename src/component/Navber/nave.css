@@ -1,0 +1,7 @@
+.main-nave a.active{
+    border: 2px solid green;
+}
+.main-nave a.active:hover{
+    background-color: green;
+    color:  #fff;
+}
